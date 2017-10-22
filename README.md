@@ -34,4 +34,6 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/mmmwhy/ss-panel
 
 vagex安装
 
+```
 wget -N --no-check-certificate https://raw.githubusercontent.com/mmmwhy/ss-panel-and-ss-py-mu/master/Vagex-Firefox.sh && chmod +x Vagex-Firefox.sh && bash Vagex-Firefox.sh
+```
